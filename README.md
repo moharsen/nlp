@@ -1,0 +1,1 @@
+This is my attempt to learn natural language processing from various MOOCs and projects. Arranged by folders.
